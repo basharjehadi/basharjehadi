@@ -5,12 +5,6 @@
 - 🎓 Graduate in Computer Science from Adam Mickiewicz University in Poznań.
 - 🌍 Based in Poznań, Poland.
 
-## 🛠️ Tools & Technologies
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform
-- **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry, Instana
-- **Cloud Platforms:** AWS, DigitalOcean
-- **Languages:** Python, Bash, JavaScript
-
 ## 🏗️ What I’m Currently Working On
 - Building end-to-end CI/CD pipelines with AWS and DigitalOcean.
 - Learning Dockerization for full-stack applications.
