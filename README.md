@@ -6,7 +6,7 @@
 - 🌍 Based in Poznań, Poland.
 
 ## 🏗️ What I’m Currently Working On
-- Building end-to-end CI/CD pipelines with AWS and DigitalOcean.
+- Building end-to-end CI/CD pipelines with AWS,Azure and DigitalOcean.
 - Learning Dockerization for full-stack applications.
 - Exploring Kubernetes for scalable app deployments.
 
