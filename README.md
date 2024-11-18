@@ -1,5 +1,29 @@
-# 💫 About Me:
-I’m currently working on:<br>As a Junior DevOps Engineer, I’m building and managing projects that involve infrastructure automation, CI/CD pipelines, containerization, and cloud-native deployments. I’m currently focused on projects leveraging AWS and DigitalOcean for real-world scenarios, Kubernetes for app deployments, and integrating monitoring/logging tools like Prometheus, Grafana, and OpenTelemetry.<br><br>I’m looking to collaborate on:<br>I’m open to collaborating on cloud infrastructure automation, scalable Kubernetes deployments, CI/CD pipeline setups using tools like Jenkins or GitHub Actions, and full-stack application Dockerization. I’m also interested in multi-cloud strategies and integrating DevOps best practices into software development workflows.<br><br>I’m looking for help with:<br>Advanced Kubernetes setups for multi-cluster environments, cost optimization for hosting long-term projects, and strategies for publishing engaging technical articles to grow my visibility in the tech community.<br><br>I’m currently learning:<br><br>Advanced Docker and Kubernetes techniques.<br>Monitoring and observability with tools like Instana and OpenTelemetry.<br>Serverless technologies and microservices architectures.<br>Preparing for the Microsoft Azure Developer (AZ-204) and GitHub Actions certifications.<br>Ask me about:<br>Anything DevOps! I can share insights on CI/CD pipeline creation, cloud platform setups (AWS and DigitalOcean), monitoring/logging solutions, infrastructure automation tools (Ansible, Terraform), and agile project management using Jira.<br><br>Fun fact:<br>As a DevOps Engineer, I play a key role in bridging development and operations, ensuring seamless software delivery. Did you know? With DevOps practices, companies can deploy code 208 times more frequently and recover from failures 96 times faster than traditional setups! I love being part of the movement that makes software delivery faster, smarter, and more reliable. 🚀<br><br>
+# Hi there, I'm Md Abul Bashar Jehadi! 👋
+
+## 🚀 About Me
+- 🌱 Junior DevOps Engineer passionate about automation and cloud-native technologies.
+- 🎓 Graduate in Computer Science from Adam Mickiewicz University in Poznań.
+- 🌍 Based in Poznań, Poland.
+
+## 🛠️ Tools & Technologies
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform
+- **Monitoring & Observability:** Prometheus, Grafana, OpenTelemetry, Instana
+- **Cloud Platforms:** AWS, DigitalOcean
+- **Languages:** Python, Bash, JavaScript
+
+## 🏗️ What I’m Currently Working On
+- Building end-to-end CI/CD pipelines with AWS and DigitalOcean.
+- Learning Dockerization for full-stack applications.
+- Exploring Kubernetes for scalable app deployments.
+
+## 💬 Ask Me About
+- CI/CD pipelines
+- Kubernetes deployments
+- Cloud infrastructure automation
+- DevOps tools and best practices
+
+## 🌟 Fun Fact
+DevOps is not just about tools—it's about culture! With DevOps, companies deploy code **208 times faster** and recover from failures **96 times quicker** than traditional IT setups!
 
 
 ## 🌐 Socials:
