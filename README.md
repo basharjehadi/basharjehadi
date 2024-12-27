@@ -19,13 +19,6 @@
 | 8 | [Docker-Based Containerization of a Java Application](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project%205%20Docker-Based%20Containerization%20of%20a%20Java%20Application) | Containerized a java app using Docker |
 | 9 | [Continous Integration With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-6%3A%20Continues%20Integration%20With%20Jenkins) | Created a CI pipeline for Java App using Jenkins|
 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iamabulbashar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-abul-bashar-jehadi/) 
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=basharjehadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharjehadi&theme=dark&hide_border=false)<br/>
