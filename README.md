@@ -18,7 +18,7 @@
 | 7 | [Re-Architecting Multi Tier Web App on AWS Cloud](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-4%3A%20Re-Architecting%20Multi%20Tier%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D) | Multi-tier web app stack re-architected for AWS Cloud using Default VPC, Route53 Public Registered Name, Maven, JDK8 |
 | 8 | [Docker-Based Containerization of a Java Application](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project%205%20Docker-Based%20Containerization%20of%20a%20Java%20Application) | Containerized a java app using Docker |
 | 9 | [Continous Integration With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-6%3A%20Continues%20Integration%20With%20Jenkins) | Created a CI pipeline for Java App using Jenkins|
-| 10 | [AWS Project Used In Production | Complete Implementation](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Abhishek-Aws-Project-Used-In-Production) | This project sets up a resilient VPC with servers in private subnets across two Availability Zones, using an Auto Scaling group, Application Load Balancer, and dual NAT gateways for internet access|
+| 10 | [AWS Project Used In Production Complete Implementation](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Abhishek-Aws-Project-Used-In-Production) | This project sets up a resilient VPC with servers in private subnets across two Availability Zones, using an Auto Scaling group, Application Load Balancer, and dual NAT gateways for internet access|
 
 
 # 📊 GitHub Stats:
