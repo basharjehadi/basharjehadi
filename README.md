@@ -19,7 +19,6 @@
 | 8 | [Docker-Based Containerization of a Java Application](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project%205%20Docker-Based%20Containerization%20of%20a%20Java%20Application) | Containerized a java app using Docker |
 | 9 | [Continous Integration With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-6%3A%20Continues%20Integration%20With%20Jenkins) | Created a CI pipeline for Java App using Jenkins|
 | 10 | [Continous Delivery With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-7%3A%20Continues%20Delivery%20With%20Jenkins%20) | Completed CI-CD pipeline for Java App using Jenkins in AWS ECR and ECS|
-
 | 11 | [AWS Project Used In Production Complete Implementation](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Abhishek-Aws-Project-Used-In-Production) | This project sets up a resilient VPC with servers in private subnets across two Availability Zones, using an Auto Scaling group, Application Load Balancer, and dual NAT gateways for internet access|
 
 
