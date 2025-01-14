@@ -20,7 +20,7 @@
 | 9 | [Continous Integration With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-6%3A%20Continues%20Integration%20With%20Jenkins) | Created a CI pipeline for Java App using Jenkins, Maven, Sonarqube and Nexus|
 | 10 | [Continous Delivery With Jenkins](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Project-7%3A%20Continues%20Delivery%20With%20Jenkins%20) | Completed CI-CD pipeline for Java App using Jenkins in AWS ECR and ECS|
 | 11 | [AWS Project Used In Production Complete Implementation](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Abhishek-Aws-Project-Used-In-Production) | This project sets up a resilient VPC with servers in private subnets across two Availability Zones, using an Auto Scaling group, Application Load Balancer, and dual NAT gateways for internet access|
-
+| 12 | [Continous Integration and Continous Delivery in AWS](https://github.com/basharjehadi/AWS_DevOps_Projects/tree/main/Abhishek-Aws-Project-Used-In-Production) | In this project I implemented END to End CI/CD solution of a Java app in AWS using Bitbucket, AWS Elastic Beanstalk, AWS RDS, AWS Code Build, AWS Code Pipeline and S3|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=basharjehadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
